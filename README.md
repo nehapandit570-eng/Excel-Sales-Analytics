@@ -39,7 +39,7 @@ The objective is to understand business performance, monitor sales growth, evalu
 - Gross Margin and Gross Margin percentage.
 - Year-over-year performance comparison.
 
-### 4. P&L Statement by Markets(
+### 4. P&L Statement by Markets(https://github.com/nehapandit570-eng/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 - Market-wise Net Sales.
 - Market-wise COGS.
 - Gross Margin comparison.
