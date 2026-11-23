@@ -33,13 +33,13 @@ The objective is to understand business performance, monitor sales growth, evalu
 - Actual sales vs target comparison.
 - Identification of markets below target.
 
-### 3. P&L Statement by Fiscal Year
+### 3. P&L Statement by Fiscal Year(https://github.com/nehapandit570-eng/Excel-Sales-Analytics/blob/main/P%20%26%20l%20by%20Year.pdf)
 - Net Sales analysis.
 - COGS analysis.
 - Gross Margin and Gross Margin percentage.
 - Year-over-year performance comparison.
 
-### 4. P&L Statement by Markets
+### 4. P&L Statement by Markets(
 - Market-wise Net Sales.
 - Market-wise COGS.
 - Gross Margin comparison.
