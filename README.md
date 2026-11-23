@@ -23,7 +23,7 @@ The objective is to understand business performance, monitor sales growth, evalu
 
 ## 📈 Reports Included
 
-### 1. Customer Performance Report
+### 1. Customer Performance Report(https://github.com/nehapandit570-eng/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
 - Customer-wise Net Sales analysis.
 - Year-wise customer performance.
 - Comparison of customer sales growth.
