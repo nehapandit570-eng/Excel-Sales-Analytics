@@ -96,7 +96,7 @@ Through this project, I gained practical exposure to:
 
 ## 👩‍💻 Author
 
-**Neha Kolhe**
+**Neha Kolhe
 
 Aspiring Data Analyst | Excel | SQL | Power BI | Python
 
