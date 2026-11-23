@@ -45,7 +45,7 @@ The objective is to understand business performance, monitor sales growth, evalu
 - Gross Margin comparison.
 - Gross Margin percentage analysis.
 
-### 5. P&L Statement by Months
+### 5. P&L Statement by Months(https://github.com/nehapandit570-eng/Excel-Sales-Analytics/blob/main/P%26L%20by_months.pdf)
 - Monthly sales trends.
 - Monthly COGS and Gross Margin.
 - Fiscal year comparison.
